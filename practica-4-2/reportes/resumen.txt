@@ -1,0 +1,3 @@
+Resumen de inventario
+Productos registrados: 0
+Valor total: 0

@@ -1,0 +1,20 @@
+[
+    {
+        "codigo": "L001",
+        "titulo": "Python Básico",
+        "autor": "Ana López",
+        "año": 2020
+    },
+    {
+        "codigo": "L002",
+        "titulo": "Estructuras de Datos",
+        "autor": "Carlos Ruiz",
+        "año": 2021
+    },
+    {
+        "codigo": "L003",
+        "titulo": "POO en Python",
+        "autor": "María Gómez",
+        "año": 2022
+    }
+]
